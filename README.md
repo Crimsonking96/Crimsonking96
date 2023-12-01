@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Crimsonking96
-- 👀 I’m interested in video games, web development, Engineering, and my business www.crimsonents.com.
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Data Science and machine Learning.
+- 🌱 I’m currently learning ML pipelines.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me am1210005@gmail.com
 
